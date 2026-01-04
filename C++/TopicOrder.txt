@@ -6,6 +6,20 @@ Setting up your Environment
     Installing C++
     Code Editors / IDEs
     Running your First Program
+First Program
+    Hello World
+    Basic input/output
+Data Types
+    Fundamental Data Types
+        int, float, double, char, bool, void, nullptr
+        Modifiers: short, long, signed, unsigned
+    Derived Data Types
+        string, arrays, pointers, references
+    User-Defined Data Types
+        struct, class, union, enum
+    Static Typing
+    Dynamic Typing
+    RTTI
 Basic Operations
     Arithmetic Operators
     Logical Operators
@@ -17,10 +31,6 @@ Functions
     What are functions
     Operator Overloading
     Lambdas
-Data Types
-    Static Typing
-    Dynamic Typing
-    RTTI
 Pointers and References
     Memory Model
     Lifetime of Objects
@@ -134,3 +144,7 @@ Resources:
 4. https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170
 5. https://cplusplus.com/
 6. https://salmer.github.io/CppDeveloperRoadmap/
+7. https://www.youtube.com/@CppNuts
+8. https://www.youtube.com/@DeepestDiveDev/videos
+9. https://www.youtube.com/@NotesByNick
+10. https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS
